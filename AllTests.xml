@@ -19,7 +19,7 @@
                 <include name="loginPage" />
                 <include name="invalidCredentials" />
                 <include name="loginWithoutCredentials" />
-                <include name="emailFormat" />
+                <exclude name="emailFormat" />
                 <include name="successfulLogin" />
             </methods>
         </class>
